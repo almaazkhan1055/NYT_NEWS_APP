@@ -7,7 +7,7 @@ This React application displays the New York Times Most Popular Articles using t
 - Fetches most popular articles from the NY Times API
 - Responsive master/detail interface using Tailwind CSS
 - State management with React Hooks
-- Comprehensive test coverage with Jest and React Testing Library
+- Comprehensive test coverage with vitest and React Testing Library
 - End-to-end testing with Cypress
 - Modern JavaScript practices and clean code architecture
 
